@@ -20,6 +20,17 @@
 ---
 
 
+### To contribute to Master
+
+  * Add files with changes
+     `git add .`
+  * Commit the changes
+     `git commit -m "Your changes"`
+  * Push the changes to **MASTER**
+     `git push origin master`
+     
+---
+
 
 ### Contributions:
 
