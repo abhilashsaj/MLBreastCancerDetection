@@ -1,5 +1,7 @@
 # MLBreastCancerDetection
 
+* Language: Python
+* Libraries: Scipy, Numpy, Matplotlib
 
 
 ### To start 
